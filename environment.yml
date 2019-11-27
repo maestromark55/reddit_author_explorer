@@ -287,7 +287,6 @@ dependencies:
     - psaw==0.0.7
     - ptyprocess==0.6.0
     - pybind11==2.4.3
-    - pyfasttext==0.4.6
     - pynndescent==0.4.0
     - pyrsistent==0.15.5
     - pytesseract==0.3.0
