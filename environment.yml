@@ -1,14 +1,16 @@
 name: forbinder
 channels:
+  - conda-forge
   - defaults
 dependencies:
   - _libgcc_mutex=0.1
+  - appmode=0.7.0
   - attrs=19.3.0
   - backcall=0.1.0
   - blas=1.0
   - bleach=3.1.0
   - bokeh=1.4.0
-  - ca-certificates=2019.10.16
+  - ca-certificates=2019.9.11
   - certifi=2019.9.11
   - dbus=1.13.12
   - decorator=4.4.1
