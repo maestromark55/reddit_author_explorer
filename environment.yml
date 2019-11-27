@@ -287,7 +287,6 @@ dependencies:
     - psaw==0.0.7
     - ptyprocess==0.6.0
     - pybind11==2.4.3
-    - pynndescent==0.4.0
     - pyrsistent==0.15.5
     - pytesseract==0.3.0
     - python-editor==1.0.4
@@ -304,7 +303,6 @@ dependencies:
     - textblob==0.15.3
     - tornado==5.1.1
     - typesentry==0.2.7
-    - umap-learn==0.4.0
     - vadersentiment==3.2.1
     - wcwidth==0.1.7
     - webencodings==0.5.1
